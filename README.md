@@ -45,3 +45,6 @@ Join online communities like Unity forums, Reddit (r/Unity3D), Discord servers, 
 ## Continuous Learning
 Game development is a continuous learning process. Stay updated with Unity's latest features, best practices, and industry trends. Explore advanced topics like shader programming, networked multiplayer, augmented reality (AR), and virtual reality (VR) as you gain more experience.
 
+
+# Youtube link for the csharp - 
+(https://www.youtube.com/watch?v=1voBuAL5ZSs&list=PLPe4c_MZIi8-3vKIsBFbwvKmAfX3STarE)
